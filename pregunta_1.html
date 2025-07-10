@@ -160,8 +160,8 @@
 library(FactoMineR) # funciones para correr análisis de correspondencia múltiple
 library(factoextra) # visualizaciones elegantes del resultado corrido con FactoMineR
 
-# Script para correr el MCA ('resultados_acm_jesus1' debe estar cargado y preparado)
-resultados_acm_jesus5 &lt;- MCA(resultados_acm_jesus1, graph = FALSE)
+# Script para correr el MCA ('preguntas_jesus1' debe estar cargado y preparado)
+resultados_acm_jesus1 &lt;- MCA(preguntas_jesus1, graph = FALSE)
 
 # Script para generar el biplot
 fviz_mca_biplot(resultados_acm_jesus1,
