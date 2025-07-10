@@ -191,7 +191,7 @@
 library(factoextra)
 
 # MCA para la pregunta 3
-resultados_acm_jesus3 &lt;- MCA(preguntas_jesus2,
+resultados_acm_jesus3 &lt;- MCA(preguntas_jesus3,
 	graph = FALSE)
 
 # Para generar el biplot
@@ -202,7 +202,7 @@ fviz_mca_biplot(resultados_acm_jesus3,
 	ggtheme = theme_minimal())
 
 # Para visualizar valores propios
-fviz_screeplot(resultados_acm_jesus2, addlabels = TRUE,
+fviz_screeplot(resultados_acm_jesus3, addlabels = TRUE,
 	main= &quot;Valores propios de las principale dimensiones&quot;,
 	xlab = &quot;Dimensiones&quot;,
 	ylab = &quot;Porcentaje de varianza explicada&quot;)
@@ -218,7 +218,7 @@ fviz_contrib(resultados_acm_jesus1, # Nota: el script original usaba jesus1 aqu�
 	ylab = &quot;Contribuciones (%)&quot;)
 	
 # Visualización de las variables que más contribuyen a la Dimensión 2
-fviz_contrib(resultados_acm_jesus1, # Nota: el script original usaba jesus1 aquí. Se mantiene para consistencia con lo proporcionado.
+fviz_contrib(resultados_acm_jesus3, # Nota: el script original usaba jesus1 aquí. Se mantiene para consistencia con lo proporcionado.
 	choice=&quot;var&quot;, axes = 2, top = 10 )
 fviz_contrib(resultados_acm_jesus1, # Nota: el script original usaba jesus1 aquí. Se mantiene para consistencia con lo proporcionado.
 	choice=&quot;var&quot;, axes = 2,
