@@ -5,10 +5,10 @@ library(factoextra)
 
 scripts empleados:
 
-resultados_acm_jesus3 <- MCA(preguntas_jesus2,
+resultados_acm_jesus2 <- MCA(preguntas_jesus2,
 	graph = FALSE)
 
-fviz_mca_biplot(resultados_acm_jesus1,
+fviz_mca_biplot(resultados_acm_jesus2,
 	repel = TRUE,
 	invisible = "ind",
 	alpha.var = 1,
