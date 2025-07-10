@@ -1,0 +1,56 @@
+Paquetes empleados:
+
+library(FactoMineR)
+library(factoextra)
+
+scripts empleados:
+
+resultados_acm_jesus3 <- MCA(preguntas_jesus2,
+	graph = FALSE)
+
+fviz_mca_biplot(resultados_acm_jesus1,
+	repel = TRUE,
+	invisible = "ind",
+	alpha.var = 1,
+	ggtheme = theme_minimal())
+
+
+
+Pregunta 2: ¿De qué manera se lleva adelante la transformación del modelo de Estado?. Transformación del modelo y dinámica del Estado
+
+Las dos primeras dimensiones, en conjunto, explican un 20.3% de la varianza total. Aunque este porcentaje es mayor que en el ACM relacionado con la primera pregunta de investigación, sigue siendo relativamente bajo. Esto refuerza la idea de que la "transformación del modelo de Estado" y su dinámica son fenómenos complejos, con múltiples factores influyendo en las percepciones de los participantes de los consejos comunales, no completamente capturados en estas dos dimensiones. Por lo tanto, la interpretación debe centrarse en las asociaciones más evidentes y robustas, sin inferir una explicación exhaustiva.
+
+El mapa factorial muestra una clara polarización diagonal, que permite identificar perfiles de percepción y participación: Eje 1 (Dim1 - horizontal), que podemos denominar Percepción de la Gestión Institucional y Vinculación. El polo positivo (derecha) agrupa una serie de características positivas del "investigador comunal" en la parte inferior-derecha (ej., identidad_comunal_Sí, reflexion_critica_Sí, demuestra_valores_Sí, registra_praxis_Sí, teorico_practico_Sí, resilencia_Sí, toma_decisiones_Sí, estudioso_Sí, curioso_Sí, da_alternativas_Sí, busca_respuestas_Sí). También se asocia con percepciones institucionales positivas como gestion_cc_Buena, relacion_psuv_pp_Positiva, c, conoce_vinculacion_cc_Sí, coonoce_mppcm_Sí , competencia_ampliada_Totalmente de acuerdo, y participado_form_Sí.
+
+Este perfil representa a los participantes que tienen una visión positiva y de alto conocimiento sobre la gestión del Consejo Comunal y la vinculación con el MPPCM, evalúan favorablemente la relación con el PSUV, están "totalmente de acuerdo" con la ampliación de competencias, e igualmente  han participado en formaciones. Además, estas percepciones se asocian fuertemente con la identificación de atributos ideales para un investigador comunal (ética, proactividad, pensamiento crítico, resiliencia, etc.).
+
+Polo negativo (izquierda): En el extremo opuesto, especialmente en la parte superior-izquierda, se encuentran gestion_cc_NS/NR, gestion_cc_Mala, relacion_psuv_pp_Negativa, conoce_vinculacion_cc_No / NS/NR, conoce_mppcm_No / NS/NR, participado_form_NS/NR, participado_form_No, y categorías de "desacuerdo" (Totalmente en desacuerdo, En desacuerdo, Ni de acuerdo ni en desacuerdo) con la ampliación de competencias (competencia_ampliada).
+
+Este polo describe un perfil de participantes que evalúa negativamente o con neutralidad la gestión del Consejo Comunal y la relación PSUV-Poder Popular. Muestran desconocimiento o no existencia de la vinculación con entes gubernamentales y el MPPCM, y no han participado o no responden sobre formaciones. Adicionalmente, este perfil se asocia con las categorías "No" para las características del investigador comunal (aunque estas últimas están más cerca del origen en este polo).
+
+Eje 2 (Dim2 - vertical): Nivel de Satisfacción y Conocimiento Institucional vs. Desacuerdo/Indiferencia. Aunque el Eje 1 ya muestra una fuerte polarización, el Eje 2 contribuye a diferenciar. En el polo positivo (Arriba): Las categorías de gestion_cc_NS/NR, gestion_cc_Mala, Totalmente en desacuerdo, En desacuerdo, Ni de acuerdo ni en desacuerdo, conoce_vinculacion_cc_NS/NR, relacion_psuv_pp_Negativa, conoce_mppcm_NS/NR, conoce_mppcm_No, Neutral, participado_form_NS/NR, se ubican en la parte superior.
+Este polo concentra las percepciones negativas, la falta de conocimiento, la no respuesta, y el desacuerdo o la indiferencia hacia la ampliación de competencias. 
+
+En el polo negativo (Abajo), las categorías gestion_cc_Buena, relacion_psuv_pp_Positiva, conoce_mppcm_Sí, conoce_vinculacion_cc_Sí, competencia_ampliada_Totalmente de acuerdo, participado_form_Sí,  se encuentran en la parte inferior.
+Este polo agrupa las percepciones positivas, el conocimiento y el acuerdo, mostrando un alineamiento con la narrativa y la práctica institucional.
+
+Interpretación a la luz del marco legal
+
+La pregunta de investigación se centra en la "transformación del modelo de Estado" y su "dinámica" a través del Poder Popular. El mapa revela una polarización en la percepción y la participación que es clave para entender cómo se lleva a cabo (o se percibe) esta transformación.
+
+La LOCC establece el Consejo Comunal como la célula fundamental del gobierno popular y la base para la construcción del Estado Comunal. El cuadrante inferior-derecho del biplot representa a un perfil de participante altamente alineado con los principios de corresponsabilidad, participación, protagonismo y eficacia (Art. 5 LOCC). Estos individuos no solo conocen las instancias del Poder Popular (MPPCM, vinculación del CC con entes), sino que las evalúan positivamente y participan activamente en formaciones. Su acuerdo con la "competencia ampliada" para CCs/Comunas (competencia_ampliada_Totalmente de acuerdo) es el corazón de la visión de la LOCC de transferir progresivamente la gestión y administración de bienes y servicios (Art. 6, Fines, y diversos artículos que detallan las funciones de las Unidades de Gestión). Este perfil es el agente ideal de la transformación del modelo de Estado, entendiendo y promoviendo la transferencia del poder hacia las bases.
+
+El cuadrante superior-izquierda del biplot revela un segmento con una visión más crítica o desinformada. La "gestión mala", la "relación negativa" con el PSUV, y el desconocimiento (conoce_mppcm_No, conoce_vinculacion_cc_No) plantean un desafío directo a la legitimidad y eficacia percibida de las instancias del Poder Popular. Si los ciudadanos que participan en CCs no conocen o si  evalúan negativamente la gestión, la aspiración de una "democracia participativa y de consulta abierta" (principios LOPP) se ve comprometida. La no participación en formaciones de este grupo también limita la capacidad de empoderamiento y de comprensión profunda del "nuevo modelo de sociedad" que se busca construir.
+
+Ley LOPP establece la base de la democracia participativa y protagónica (Art. 1, 4). El perfil positivo en el cuadrante inferior-derecho encarna el espíritu de la LOPP ya que visibiliza valores colectivos y la búsqueda de la reflexión crítica y transformadora, lo que contribuye a la construcción del sujeto del poder popular. El perfil crítico/desinformado (cuadrante superior-izquierda) puede ser un síntoma de brechas en la articulación de la "arquitectura del Poder Popular" (LOPP Art. 10) o en la difusión efectiva de sus principios.
+La aspiración de "mayores competencias y facultades" para Comunas/CC es un pilar de la Ley de Comunas (Art. 22-26, sobre el Gobierno Comunal y sus competencias). El fuerte acuerdo con esta ampliación por parte del perfil positivo (competencia_ampliada_Totalmente de acuerdo) indica una resonancia con este objetivo legal. El desacuerdo o la indiferencia de otros grupos representa una barrera para la plena implementación de este modelo de gobernanza local.
+La gestión de bienes y servicios, mencionada en "competencia ampliada", es central para la LOSEC. La evaluación de la gestión del CC (gestion_cc) y la vinculación con entes (conoce_vinculacion_cc) son indicadores de cómo se percibe la capacidad de las comunas para gestionar su propio desarrollo económico y social, lo cual es fundamental para la transformación del Estado.
+
+Las características asociadas al "Sí" para el investigador comunal (identidad_comunal, reflexion_critica, demuestra_valores, etc.) son esenciales para el desarrollo endógeno y la autonomía que el marco legal persigue. Reflejan el ideal de un sujeto colectivo capaz de diagnosticar, proponer y ejecutar soluciones desde la praxis, contribuyendo así a la transformación del modelo de Estado desde la base. El fuerte agrupamiento de estos atributos con las percepciones positivas de la gestión institucional es un hallazgo clave: sugiere que quienes se sienten alineados con la institucionalidad del Poder Popular son también quienes más encarnan el perfil ideal de un actor propositivo y transformador.
+
+Conclusión:
+
+Este MCA sobre la "transformación del modelo de Estado" revela una división fundamental entre los participantes de los consejos comunales. Por un lado, un perfil optimista y altamente comprometido que ve positivamente la gestión institucional, la vinculación intergubernamental, y aboga por una mayor autonomía local, además de encarnar las cualidades del "investigador comunal". Este grupo se posiciona como el motor y la expresión de la "dinámica" transformadora del Estado, buscando la consolidación del Poder Popular en la práctica, de acuerdo con los principios de la LOCC, LOPP y Ley de Comunas. Por otro lado, existe un perfil crítico o desinformado, que no valida la gestión institucional ni su articulación, y que potencialmente no ha participado en las formaciones necesarias para su empoderamiento. Este grupo representa un desafío significativo, ya que su descontento o desconocimiento puede obstaculizar la cohesión y la efectividad en la construcción del nuevo modelo de Estado y la democracia participativa. La brecha entre estos dos perfiles es crucial para comprender los avances y retrocesos en la consolidación del Poder Popular como pilar de la transformación del Estado en Venezuela.
+
+
+

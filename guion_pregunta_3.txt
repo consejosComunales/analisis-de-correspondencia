@@ -1,0 +1,71 @@
+Pregunta 3: ¿Cómo las comunidades aportan acciones para la construcción del desarrollo y del socialismo?. Gestión comunal para el desarrollo endógeno y sostenible
+
+Las dos primeras dimensiones explican un porcentaje acumulado del 25.8% de la varianza total. Si bien la Dimensión 1 tiene una contribución significativa, la varianza explicada en conjunto sigue siendo moderada para un análisis con tantas variables. Esto sugiere que la complejidad de la "gestión comunal para el desarrollo endógeno y sostenible" se manifiesta en múltiples facetas no completamente capturadas por estos dos ejes, pero las relaciones que se observan son las más fuertes y relevantes.
+
+Las dos primeras dimensiones explican un porcentaje acumulado del 25.8% de la varianza total. Si bien la Dimensión 1 tiene una contribución significativa, la varianza explicada en conjunto sigue siendo moderada para un análisis con tantas variables. Esto sugiere que la complejidad de la "gestión comunal para el desarrollo endógeno y sostenible" se manifiesta en múltiples facetas no completamente capturadas por estos dos ejes, pero las relaciones que se observan son las más fuertes y relevantes.
+Dada la cantidad de variables y la baja inercia, se procederá a analizar los valores propios y las diez variables que mayor contribución aportan a la primera y segunda dimensión.
+
+las asociaciones observadas en las dos primera dimensiones son las más fuertes. No obstante, la varianza explicada por estas dos dimensiones, 25.78%,  es más bien baja, por consiguiente, al identificar los principales perfiles o tendencias sobre cómo las comunidades perciben su contribución al desarrollo y al socialismo a través de la gestión comunal en el mapa factorial habrá que tener en cuenta que hay más variabilidad subyacente. Esto significa que  la realidad que se está midiendo es compleja y multifacética y que se necesitan más de 10 dimensiones para explicar el 57% de la varianza, lo que sugiere que hay muchas pequeñas relaciones entre las variables, en lugar de unas pocas dimensiones dominantes. La interpretación debe, por tanto,  ser cuidadosa y considerar que hay otros factores (dimensiones) que también influyen en los resultados.
+
+Las categorías que más contribuyen a la Dimensión 1 son:
+
+contribucion_educacion_Sí (Sí, el CC ha contribuido en la gestión de Educación),
+contribucion_transporte_Sí (Sí, el CC ha contribuido en la gestión de Transporte Público),
+educacion_cc_Sí (Sí, el CC se involucra en soluciones de Educación),
+transporte_pub_Sí (Sí, el CC se involucra en soluciones de Transporte Público),
+telecomunicaciones_Sí (Sí, el CC se involucra en soluciones de Telecomunicaciones),
+contribucion_telecom_Sí (Sí, el CC ha contribuido en la gestión de Telecomunicaciones),
+contribucion_vialidad_Sí (Sí, el CC ha contribuido en la gestión de Vialidad),
+vialidad_Sí (Sí, el CC se involucra en soluciones de Vialidad),
+contribucion_salud_Sí (Sí, el CC ha contribuido en la gestión de Salud),
+salud_Sí (Sí, el CC se involucra en soluciones de Salud)
+
+Se observa un claro dominio de las categorías "Sí" relacionadas con El involucramiento del Consejo Comunal en la solución de problemas básicos y la contribución del Consejo Comunal en la gestión de diversos servicios público
+
+la Dimensión 1, entonces, representa un eje que diferencia el grado o la percepción de la efectividad y la intervención del CC en la resolución de problemas concretos y la gestión de servicios vitales para la comunidad. Un polo de esta dimensión estará asociado con una alta percepción de involucramiento y contribución, mientras que, es de esperar,  el otro polo estará asociado con una baja percepción de estos aspectos (probablemente las categorías "No" correspondientes). El Eje principal, parece,  estará capturando justamente la "gestión comunal" en la práctica.
+
+Las categorías que más contribuyen a la Dimensión 2 son:
+avanzar_educacion_Sí (Sí, se debe avanzar en la transferencia de competencias en Educación), avanzar_salud_Sí (Sí, se debe avanzar en la transferencia de competencias en Salud),
+avanza_dis_alim_Sí (Sí, se debe avanzar en la transferencia de competencias en Distribución de Alimentos),
+contribucion_dis_alim_No (No, el CC no ha contribuido en la gestión de Distribución de Alimentos),
+avanza_dis_alim_No (No, no se debe avanzar en la transferencia de competencias en Distribución de Alimentos),
+avanzar_transporte_Sí (Sí, se debe avanzar en la transferencia de competencias en Transporte Público),
+avanzar_salud_No (No, no se debe avanzar en la transferencia de competencias en Salud),
+contribucion_dis_alim_Sí (Sí, el CC ha contribuido en la gestión de Distribución de Alimentos),
+distribucion_aliment_No (No, el CC no se involucra en soluciones de Distribución de Alimentos)
+contribucion_agua37_No (No, el CC no ha contribuido en la gestión de Agua)
+
+La Dimensión 2 parece estar fuertemente relacionada con  la percepción sobre la necesidad de avanzar en la transferencia de competencias a los Consejos Comunales en diversos servicios públicos, especialmente en Educación, Salud y Distribución de Alimentos. También incluye categorías de "No" relacionadas con la contribución o el involucramiento en la gestión de servicios, lo que sugiere una diferenciación entre el deseo de mayor autonomía/gestión y la percepción de la ausencia de contribución actual.
+
+Combinando esta información con el resultado de  la Dimensión 1 (percepción de la efectividad e intervención del CC en la resolución de problemas y gestión de servicios), emerge  una imagen más completa de cómo los encuestados perciben su rol en el desarrollo. 
+
+
+Biplot
+
+La dimensión 1 puede denominarse “Percepción de la Efectividad e Involucramiento del Consejo Comunal en la Solución de Problemas y Gestión de Servicios” .Como se anticipó previamente, por las contribuciones de las variables a esta dimensión, este eje se define por las categorías "Sí" relacionadas con el involucramiento del CC en problemas básicos (ej., educacion_cc_Sí, transporte_pub_Sí, telecomunicaciones_Sí, vialidad_Sí, salud_Sí) y por  la contribución del CC en la gestión de servicios públicos (ej., contribucion_educacion_Sí, contribucion_transporte_Sí, contribucion_telecom_Sí, contribucion_vialidad_Sí, contribucion_salud_Sí).
+
+El polo positivo agrupa todas las categorías "Sí" de involucramiento y contribución en una amplia gama de servicios (agua, electricidad, desechos, gas, alumbrado, telecomunicaciones, vialidad, transporte, salud, educación, distribución de alimentos). Junto a ellas, se encuentran las categorías de identificación y conocimiento del CC y sus logros (identificacion_con_cc_Sí, conoce_voceros_Sí, conoce_logro_cc_Sí). Adicionalmente, este polo se asocia con el deseo de avanzar en la transferencia de competencias en varios de estos servicios (avanzar_agua_Sí, avanzar_alumbrado_Sí, avanzar_gas_Sí, avanzar_desecho_Sí, avanzar_telecom_Sí, avanzar_vialidad_Sí
+
+Polo negativo (izquierda): En el extremo opuesto, se encuentran las categorías "No" para el involucramiento y la contribución del CC en los mismos servicios (ej., agua_No, electriidad_No, desechos_solidos_No, gas_No, alumbrado_No, telecomunicaciones_No, vialidad_No, transporte_pub_No, salud_No, educacion_cc_No, distribucion_aliment_No, y sus respectivas contribucion_ "No"). 
+
+En el polo negativo también se agrupan las categorías "No" para la identificación con el CC y el conocimiento de voceros o logros (identificacion_con_cc_No, conoce_voceros_No, conoce_logro_cc_No), así como "NS/NR" para estas últimas.
+
+En la dimensión 2 los factores predominanes permiten denominarlo: Deseo de Avance en la Transferencia de Competencias vs. Percepción de No Contribución, especialmente en la distribución de alimentos. Esta dimensión está influenciada por el deseo de avanzar en la transferencia de competencias (avanzar_educacion_Sí, avanzar_salud_Sí, avanza_dis_alim_Sí, avanzar_transporte_Sí) y, en contraste, por la percepción de no contribución del CC en ciertos servicios, particularmente la distribución de alimentos (contribucion_dis_alim_No, distribucion_aliment_No).
+
+En el polo positivo (Arriba), se encuentran las categorías "Sí" de deseo de transferencia de competencias en áreas como educación, salud y transporte, y las "No" de contribución/involucramiento en la distribución de alimentos.
+
+En el polo negativo (Abajo): Se agrupan categorías "No" de avance en la transferencia de competencias (avanzar_salud_No, avanzar_educacion_No, avanzar_transporte_No, avanza_dis_alim_No) y las "Sí" de contribución en la distribución de alimentos (contribucion_dis_alim_Sí).
+
+La pregunta de investigación que rige la elaboración de este MCA es: "¿Cómo las comunidades aportan acciones para la construcción del desarrollo y del socialismo? Gestión comunal para el desarrollo endógeno y sostenible."
+
+El cuadrante superior derecho representa a un perfil de comunidad o participante que percibe una alta efectividad y un fuerte involucramiento del Consejo Comunal en la resolución de problemas y la gestión de servicios básicos. Existe un alto conocimiento de los voceros y los logros del CC, así como una fuerte identificación con el Consejo Comunal. No es una sorpresa, entonces, que este grupo desee una mayor transferencia de competencias a los Consejos Comunales/Comunas en la gestión de servicio
+
+Este perfil se alinea directamente con la visión de la LOCC (2023), que establece al Consejo Comunal como la instancia fundamental para la construcción del gobierno popular y la autogestión (Art. 2, 6, 30). La percepción de contribución efectiva del CC en servicios como agua, electricidad, salud, educación, etc., es la materialización de la gestión comunal para el desarrollo endógeno y sostenible que se busca. La identificación con el CC y el conocimiento de sus logros y voceros son pilares para el protagonismo popular (LOPP Art. 4) y la construcción del "socialismo" desde la base territorial. El deseo de avanzar en la transferencia de competencias (Ley de Comunas Art. 22-26) demuestra la confianza en la capacidad de autogobierno y la aspiración a consolidar el Estado Comunal
+
+Por otro lado, el cuadrante inferior izquierdo representa a un perfil de comunidad o participantes que percibe una baja o nula efectividad e involucramiento del Consejo Comunal en la solución de problemas y la gestión de servicios básicos. Existe un desconocimiento de los voceros y los logros del CC, y una baja o nula identificación con el Consejo Comunal. Este grupo también se asocia con la falta de deseo de avanzar en la transferencia de competencias en áreas clave como educación, salud y distribución de alimentos. 
+
+Conexión con el Marco Legal: Este perfil representa un desafío significativo para la "construcción del desarrollo y del socialismo". La inoperatividad percibida del CC o su falta de involucramiento en problemas básicos contradice los principios de eficacia y eficiencia (LOCC Art. 5). La baja identificación y el desconocimiento minan el protagonismo popular y la legitimidad de las instancias del Poder Popular. La reticencia a la transferencia de competencias por parte de este grupo puede deberse a la percepción de que el CC no está preparado o no ha demostrado capacidad de gestión, lo cual obstaculiza el avance hacia el desarrollo endógeno y la autonomía comunal promovidos por la LOPP y la Ley de Comunas. Este escenario indica que el aporte comunitario a la construcción del socialismo se ve limitado en los lugares en los que  el Consejo Comunal no es percibido como una instancia efectiva de gestión.
+
+Por último, las categorías "NS/NR" para el conocimiento de voceros y logros (conoce_voceros_NS/NR, conoce_logro_cc_NS/NR) tienden a agruparse en la parte central-izquierda, lo que podría indicar una falta de información o indiferencia, en lugar de un desacuerdo explícito, pero aún así se alejan del perfil de alta participación y conocimiento
+
+En conclusión, el análisis ofrece una visión emergente de cómo las comunidades se relacionan con la gestión comunal en la práctica. Demuestra que el aporte efectivo de las comunidades a la construcción del desarrollo y del socialismo está intrínsecamente ligado a la percepción de la efectividad y el involucramiento de su Consejo Comunal en la resolución de problemas y la gestión de servicios básicos. Allí donde esta gestión es valorada positivamente, se genera una mayor identificación y un deseo de profundizar la transferencia de competencias, validando el modelo de "gobierno local" y la autogestión para el desarrollo endógeno y sostenible. Por el contrario, la percepción de ineficacia o la falta de conocimiento sobre la labor del CC se asocian con una menor identificación y una reticencia a la profundización del modelo de autogobierno, lo que subraya los puntos críticos en la consolidación del Poder Popular y la construcción del socialismo territorial.
